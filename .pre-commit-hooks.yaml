@@ -1,7 +1,7 @@
 - id: swift-format
   name: swift-format
   description: 'Formatting technology for Swift source code'
-  entry: swift-format
+  entry: swift-format -i
   language: swift
   require_serial: true
   types: [swift]
